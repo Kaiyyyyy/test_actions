@@ -1,0 +1,79 @@
+{
+    "sender": "TES",
+    "msgType": "focus",
+    "time": "2024-03-27 14:35:05.620",
+    "device":
+    {
+        "deviceID": "2010",
+        "subMapID": 1001,
+        "disable": 0,
+        "type": "T-AGV",
+        "floor": 0,
+        "nodeCode": "1.799",
+        "coord": "32868,31429,1",
+        "theta": 0,
+        "status": "IDLE",
+        "power": 89,
+        "temper": 0,
+        "withPod": 0,
+        "pause": 0,
+        "stopReason": 0,
+        "stopUser": "",
+        "owner": "TES",
+        "errorCode": null,
+        "errorMsg":
+        [
+            ""
+        ],
+        "block":
+        {
+            "blockCode": 0,
+            "blockMsg": "",
+            "code": null
+        },
+        "step":
+        {
+            "stepID": 0,
+            "stepType": 0,
+            "status": 0,
+            "route": null,
+            "occupied": null,
+            "ctrl": null,
+            "desNode":
+            {
+                "mapID": 0,
+                "subMapID": 0,
+                "nodeID": "",
+                "coord": "",
+                "floor": 0
+            },
+            "podSrcNode":
+            {
+                "mapID": 0,
+                "subMapID": 0,
+                "nodeID": "",
+                "coord": "",
+                "floor": 0
+            }
+        },
+        "learnMode": 0,
+        "rescueMode": 0,
+        "mode": 1,
+        "hardwareCode": "",
+        "foldNum": 0,
+        "relateElevatorNode": "",
+        "elevatorSystemStatus": 0,
+        "interactiveStatus": 0
+    },
+    "pod":
+    {
+        "podType": "",
+        "podID": "",
+        "podExt": "",
+        "subMapID": 0,
+        "coord": "",
+        "theta": 0,
+        "abnormalCode": ""
+    },
+    "tasks": null
+}
